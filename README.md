@@ -4,4 +4,6 @@ This GitHub repository show an example of how to compute the Secchi depth and Fo
 
 Code was developed by Leon Ćatipović and modified by Bob Brewin.
 
-The notebook can be run through a webpage, just click on the launch-binder image.
+The notebook can be run through a webpage, just click on the launch-binder image below. Do note it does take a while for the processing to complete.
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rjbrewin/SeaHAWK_Secchi_FU/HEAD)
